@@ -15,7 +15,6 @@ jobs:
         run: exit 1
 
   buildAndroid:
-    needs: testRunner
     name: Build for Android 📱
     runs-on: ubuntu-latest
     strategy:
