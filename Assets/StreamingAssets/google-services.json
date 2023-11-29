@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "211976318309",
+    "firebase_url": "https://mobile-game-practice-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mobile-game-practice",
+    "storage_bucket": "mobile-game-practice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211976318309:android:65da05d9f766d8d12c458c",
+        "android_client_info": {
+          "package_name": "com.Fortythird.GoatGoatJump"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArnEbblhOAT3ZCvMnuD1psSvFvqT-Xqp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

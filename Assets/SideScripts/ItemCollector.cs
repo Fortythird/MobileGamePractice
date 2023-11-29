@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -19,6 +17,7 @@ public class ItemCollector : MonoBehaviour
             coins++;
             coinsText.text = "Carrots: " + coins;
             collectionSound.Play();
+            Firebase.Analytics.FirebaseAnalytics.LogEvent("Carrot has been picked up");
         }
     }
 
